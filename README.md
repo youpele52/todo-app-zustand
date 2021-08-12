@@ -1,1 +1,3 @@
-Base project for the Todo state manager series
+# Todo
+
+Todo app using zustand as the state manager.
